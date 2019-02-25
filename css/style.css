@@ -27,7 +27,7 @@ img {
 }
 .wrapper {
   display: grid;
-  grid-gap: 20ox;
+  grid-gap: 20px;
   grid-template-areas:
     "header"
     "nav"
